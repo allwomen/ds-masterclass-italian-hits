@@ -1,0 +1,75 @@
+,name,album,artist,gender,country,continent,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,release_date,length,popularity
+0,Guaranà,This Is Elodie,Elodie,female,Italy,Europe,0.79,0.875,8,-3.59,0,0.131,0.0358,3.37e-05,,0.581,,194346,4,2020-05-12,194346,64
+1,Good Times,DNA,Ghali,male,Italy,Europe,0.719,0.736,4,-6.32,0,0.0779,0.0315,0.0,,0.595,,163073,4,2020-02-21,163073,1
+2,Le Feste Di Pablo ,Le Feste Di Pablo ,CARA,female,Italy,Europe,0.724,0.66,5,-6.835,1,0.157,0.0294,0.0,,0.559,,193041,4,2020-04-09,193041,58
+3,Non è vero,Non è vero,The Kolors,male,Italy,Europe,0.714,0.891,1,-3.877,0,0.0646,0.232,0.0,,0.671,,186130,4,2020-05-14,186130,51
+4,Quando Quando Quando ,Quando Quando Quando ,Alberto Urso,male,Italy,Europe,0.689,0.888,4,-5.302,0,0.131,0.103,1.87e-05,,0.805,,219414,4,2020-05-14,219414,40
+5,Mediterranea,Mediterranea,Irama,male,Italy,Europe,0.711,0.916,11,-4.678,1,0.0587,0.113,0.0,,0.79,,177810,4,2020-05-19,177809,12
+6,Ridere,Fuori dall'Hype Ringo Starr,Pinguini Tattici Nucleari,male,Italy,Europe,0.713,0.902,9,-3.009,1,0.0378,0.0493,0.0,,0.72,,214733,4,2020-02-07,214733,69
+7,Musica ,Musica ,Elettra Lamborghini,female,Italy,Europe,0.779,0.835,0,-4.04,1,0.134,0.0217,0.0,,0.922,,194606,4,2020-02-06,194606,50
+8,Buenos Aires,Buenos Aires,Baby K,female,Singapore,Asia,0.653,0.742,3,-5.081,0,0.145,0.0954,0.0,,0.604,,190909,4,2020-03-06,190909,48
+9,Amami Adesso,Amami Adesso,Giordana Angi,female,Italy,Europe,0.745,0.713,1,-5.704,0,0.112,0.156,9.02e-06,,0.672,,168491,4,2020-05-14,168490,49
+10,Chega,Genesi,Gaia,female,Italy,Europe,0.836,0.565,0,-6.436,1,0.121,0.596,2.47e-06,,0.729,,184576,4,2020-03-20,184575,0
+11,Lose Somebody,Lose Somebody,Kygo,male,Norway,Europe,0.58,0.586,1,-6.883,1,0.0357,0.344,0.0,,0.507,,199549,4,2020-05-15,199549,80
+12,Houseparty,Houseparty,Annalisa,female,Italy,Europe,0.639,0.867,10,-4.67,0,0.0794,0.334,0.0,,0.839,,206843,4,2020-04-15,206843,4
+13,Finirà bene,Finirà bene,Ermal Meta,male,Albania,Europe,0.515,0.891,3,-2.876,0,0.0622,0.0456,4.16e-06,,0.517,,243751,4,2020-05-01,243751,36
+14,Perdonare,Perdonare,Nek,male,Italy,Europe,0.371,0.638,0,-5.941,1,0.0411,0.355,0.0,,0.661,,238063,3,2020-04-10,238062,34
+15,Problemi Con Tutti ,Problemi Con Tutti ,Fedez,male,Italy,Europe,0.669,0.851,8,-4.939,0,0.215,0.215,0.0,,0.645,,134875,4,2020-05-15,134874,52
+16,MA IL CIELO E' SEMPRE BLU ,MA IL CIELO E' SEMPRE BLU ,ITALIAN ALLSTARS 4 LIFE,mixed,Italy,Europe,0.618,0.863,11,-3.207,0,0.071,0.0495,0.0,,0.561,,333084,4,2020-05-08,333084,50
+17,Coco Chanel,Genesi,Gaia,female,Italy,Europe,0.842,0.581,10,-7.75,0,0.236,0.448,1.84e-06,,0.445,,144643,4,2020-03-20,144642,0
+18,Together,Together,Sia,female,Australia,Oceania,0.521,0.877,7,-5.444,1,0.0683,0.0132,0.0806,,0.199,,205208,4,2020-05-20,205207,79
+19,Insieme: Grandi Amori,Insieme: Grandi Amori,Francesco Renga,male,Italy,Europe,0.605,0.886,8,-4.567,1,0.058,0.000713,0.0,,0.648,,182814,3,2020-05-22,182813,37
+20,Deeper ,Deeper ,Biicla,male,Russia,Europe,0.617,0.551,4,-7.071,0,0.0511,0.0117,0.00297,,0.13,,174244,4,2020-05-19,174243,44
+21,Rescue Dog,Rescue Dog,Train,male,USA,North America,0.487,0.652,8,-7.274,1,0.0459,0.00474,1.53e-06,,0.454,,216407,4,2020-05-22,216406,40
+22,Il bacio di Klimt,Il bacio di Klimt,Emanuele Aloia,male,Italy,Europe,0.685,0.764,9,-4.503,1,0.0664,0.45,0.0,,0.315,,177000,4,2020-04-21,177000,69
+23,Spigoli,Spigoli,Carl Brave,male,Italy,Europe,0.718,0.703,0,-5.886,0,0.0537,0.145,0.0,,0.668,,256788,4,2020-05-12,256788,64
+24,Summer Feelings  - From 'SCOOB!' The Album,Summer Feelings ,Lennon Stella,female,Canada,North America,0.696,0.686,5,-6.113,0,0.0309,0.262,0.0,,0.7,,160289,4,2020-04-23,160289,74
+25,RITMO ,RITMO ,Black Eyed Peas,mixed,USA,North America,0.721,0.716,10,-7.037,0,0.0657,0.0334,0.00084,,0.667,,221714,4,2019-10-12,221714,81
+26,Tusa,Tusa,KAROL G,male,Colombia,South America,0.803,0.715,2,-3.28,1,0.298,0.295,0.000134,,0.574,,200960,4,2019-11-07,200960,86
+27,Rain On Me ,Rain On Me ,Lady Gaga,female,USA,North America,0.672,0.855,9,-3.764,1,0.0397,0.021,0.0,,0.646,,182200,4,2020-05-22,182200,83
+28,Sono un bravo ragazzo un po' fuori di testa,Sono un bravo ragazzo un po' fuori di testa,Random,male,Italy,Europe,0.75,0.581,5,-9.957,1,0.128,0.167,0.0,,0.624,,170579,4,2020-05-22,170578,59
+29,The Truth,The Truth,Kygo,male,Norway,Europe,0.629,0.539,7,-7.006,0,0.063,0.166,0.0,,0.316,,193747,4,2020-05-22,193747,64
+30,Una voglia assurda,Una voglia assurda,J-AX,male,Italy,Europe,0.821,0.709,5,-7.407,0,0.0747,0.0199,0.0,,0.765,,174646,4,2020-05-29,174646,54
+31,Karaoke,Karaoke,Boomdabash,male,Italy,Europe,0.929,0.625,1,-5.728,1,0.14,0.289,1.2e-06,,0.578,,156493,4,2020-06-11,156493,65
+32,Bimbi Per Strada ,Bimbi Per Strada ,Fedez,male,Italy,Europe,0.642,0.806,5,-5.451,0,0.176,0.0206,0.0,,0.562,,200821,4,2020-06-11,200820,67
+33,Break My Heart - Moon Boots Remix,Break My Heart ,Dua Lipa,female,United Kingdom,Europe,0.696,0.853,11,-4.746,0,0.0387,0.000189,0.618,,0.674,,179744,4,2020-06-12,179744,41
+34,Mi Niña,Mi Niña,Ozuna,male,Puerto Rico,North America,0.679,0.706,10,-4.853,1,0.0836,0.18,0.0,,0.543,,209827,4,2020-06-18,209826,64
+35,Be Kind  [Jacques Lu Cont Remix],Be Kind  [Jacques Lu Cont Remix],Marshmello,male,USA,North America,0.676,0.812,11,-6.192,1,0.0325,0.117,0.865,,0.763,,225268,4,2020-06-26,225267,41
+36,mappamondo,mappamondo,rovere,male,Italy,Europe,0.561,0.718,8,-7.037,1,0.0469,0.00798,0.0,,0.388,,217056,4,2020-06-26,217055,43
+37,Algoritmo  ,Algoritmo  ,Willie Peyote,male,Italy,Europe,0.71,0.859,6,-4.592,0,0.276,0.0839,0.0,,0.685,,178929,4,2020-04-30,178928,50
+38,Non mi basta più ,Non mi basta più ,Baby K,female,Singapore,Asia,0.828,0.741,7,-4.76,0,0.0561,0.11,0.0,,0.966,,200976,4,2020-06-25,200975,65
+39,Autostop,Autostop,Shade,male,Italy,Europe,0.746,0.871,6,-4.696,1,0.0639,0.128,0.0,,0.48,,187375,4,2020-06-16,187375,64
+40,Balla Per Me,Accetto Miracoli,Tiziano Ferro,male,Italy,Europe,0.688,0.879,7,-5.231,1,0.2,0.624,0.0,,0.265,,205027,4,2019-11-22,205026,61
+41,Portami a bailar,Portami a bailar,BAZ,male,Italy,Europe,0.675,0.784,11,-3.251,0,0.0382,0.432,0.0,,0.882,,197746,4,2020-06-17,197746,31
+42,Ciclone ,Ciclone ,Takagi & Ketra,male,Italy,Europe,0.728,0.868,2,-5.961,0,0.0503,0.0709,0.0,,0.669,,194100,4,2020-06-19,194100,65
+43,Better Days - Giorni Migliori ,Better Days - Giorni Migliori ,OneRepublic,male,USA,North America,0.617,0.724,5,-5.02,1,0.0439,0.221,0.0,,0.247,,144530,4,2020-05-29,144530,57
+44,Girlfriend,Girlfriend,Charlie Puth,male,USA,North America,0.758,0.583,1,-6.361,1,0.0421,0.18,5.12e-05,,0.797,,177438,4,2020-06-23,177438,70
+45,I'm on My Way,I'm on My Way,Bob Sinclar,male,France,Europe,0.823,0.734,1,-5.507,1,0.0795,0.0649,0.0,,0.714,,167816,4,2020-07-03,167816,46
+46,Roses - Imanbek Remix,Roses ,SAINt JHN,male,Guyana,South America,0.858,0.777,0,-5.413,0,0.169,0.0377,3.15e-06,,0.887,,197102,4,2020-07-02,197101,53
+47,MAMACITA,MAMACITA,Black Eyed Peas,mixed,USA,North America,0.894,0.635,2,-6.929,1,0.0473,0.193,0.00105,,0.428,,249143,4,2020-04-10,249142,78
+48,Bam Bam Twist ,Bam Bam Twist ,Achille Lauro,male,Italy,Europe,0.573,0.886,2,-4.322,1,0.054,0.00391,0.000447,,0.487,,174638,4,2020-06-19,174638,12
+49,In Your Eyes,After Hours,The Weeknd,male,Canada,North America,0.667,0.719,7,-5.371,0,0.0346,0.00285,8.1e-05,,0.717,,237520,4,2020-03-20,237520,86
+50,VIENIMI ,VIENIMI ,AIELLO,male,Italy,Europe,0.701,0.885,8,-5.019,1,0.388,0.256,0.0,,0.586,,172569,4,2020-07-03,172568,62
+51,Savage Love ,Savage Love ,Jawsh 685,male,New Zealand,Oceania,0.767,0.481,0,-8.52,0,0.0803,0.234,0.0,,0.761,,171375,4,2020-06-11,171374,87
+52,Be Happy,Be Happy,Dixie D’Amelio,female,USA,North America,0.723,0.658,0,-4.94,1,0.12,0.209,0.0,,0.599,,198966,4,2020-06-26,198965,8
+53,Daisies,Daisies,Katy Perry,female,USA,North America,0.639,0.546,1,-5.382,1,0.0407,0.0837,0.0,,0.149,,173124,4,2020-05-15,173123,76
+54,Lose You - Chico Rose Remix,Lose You ,Tiësto,male,Netherlands,Europe,0.786,0.867,6,-4.333,0,0.0755,0.0564,0.00389,,0.243,,155214,4,2020-06-26,155213,42
+55,ily  ,ily  ,Surf Mesa,male,USA,North America,0.674,0.774,11,-7.567,0,0.0892,0.0686,0.00188,,0.33,,176547,4,2019-11-26,176546,85
+56,A Un Passo Dalla Luna,A Un Passo Dalla Luna,Rocco Hunt,male,Italy,Europe,0.755,0.78,10,-5.324,1,0.0429,0.39,0.0,,0.897,,167313,4,2020-07-03,167313,72
+57,Dorado ,Dorado ,Mahmood,male,Italy,Europe,0.821,0.762,11,-3.276,0,0.0569,0.501,0.00117,,0.645,,178045,4,2020-07-09,178044,67
+58,La Canzone Dell'Estate,La Canzone Dell'Estate,Luca Carboni,male,Italy,Europe,0.725,0.846,7,-2.879,0,0.0538,0.0122,0.0,,0.846,,201297,4,2020-07-10,201296,43
+59,Caramelo,Caramelo,Ozuna,male,Puerto Rico,North America,0.728,0.806,6,-3.766,1,0.0623,0.0531,0.000301,,0.698,,217547,4,2020-06-11,217546,81
+60,Me Gusta,Me Gusta,Shakira,female,Colombia,South America,0.775,0.696,1,-5.184,0,0.0681,0.0559,0.00184,,0.775,,190570,4,2020-01-13,190570,76
+61,Love Me Land,Love Me Land,Zara Larsson,female,Sweden,Europe,0.302,0.481,2,-7.023,0,0.0625,0.0945,5.33e-06,,0.252,,159810,4,2020-07-10,159810,64
+62,Jerusalema ,Jerusalema,Master KG,male,South Africa,Africa,0.88,0.483,1,-7.012,1,0.0505,0.0185,8.68e-06,,0.827,,342613,4,2020-01-24,342612,83
+63,Superclassico,Gemelli,Ernia,male,Italy,Europe,0.623,0.663,11,-6.458,1,0.142,0.0624,4.49e-06,,0.346,,172200,4,2020-06-18,172200,73
+64,Latina,Fortuna,Emma,female,Italy,Europe,0.682,0.852,11,-4.802,0,0.0762,0.0621,0.0,,0.39,,203685,4,2020-08-27,203685,5
+65,Crepe,Crepe,Irama,male,Italy,Europe,0.698,0.886,7,-4.184,1,0.0447,0.122,0.0,,0.562,,167160,4,2020-08-28,167159,67
+66,Ice Cream ,Ice Cream ,BLACKPINK,female,South Korea,Asia,0.79,0.729,9,-3.843,1,0.334,0.0342,9.31e-05,,0.904,,175813,4,2020-08-28,175813,75
+67,Tsunami,Tsunami,Annalisa,female,Italy,Europe,0.633,0.543,6,-6.842,1,0.0419,0.0684,0.0,,0.232,,225100,4,2020-09-04,225100,2
+68,A Dónde Van,A Dónde Van,Sebastian Yatra,male,Colombia,South America,0.66,0.693,3,-4.773,0,0.189,0.0522,0.0,,0.814,,176267,4,2020-08-21,176266,65
+69,Morositas ,Morositas ,Federica Carta,female,Italy,Europe,0.704,0.816,1,-4.937,0,0.0601,0.172,0.0,,0.95,,178106,4,2020-09-17,178106,44
+70,Piña Colada ,Piña Colada ,Margherita Vicario,female,Italy,Europe,0.761,0.828,0,-5.611,1,0.182,0.207,0.0,,0.43,,206000,4,2020-07-09,206000,47
+71,Don't Worry,Don't Worry,Boomdabash,male,Italy,Europe,0.749,0.747,0,-7.293,1,0.0596,0.131,0.0,,0.598,,186462,4,2020-11-12,186462,69
+72,Eccaallà,Coraggio,Carl Brave,male,Italy,Europe,0.656,0.88,0,-3.686,1,0.217,0.183,1.99e-05,,0.881,,222200,3,2020-12-17,222200,55
+73,Scooby Doo,Scooby Doo,Pinguini Tattici Nucleari,male,Italy,Europe,0.74,0.743,6,-4.166,1,0.137,0.0477,0.0,,0.773,,179125,4,2020-11-13,179124,71
